@@ -109,4 +109,7 @@ If you're experiencing timeouts when sending phishing emails, try these solution
 
 5. **Alternative Solution**:
    - If email sending continues to fail, the application will automatically fall back to saving data in the captured_data directory
-   - Check the captured_data folder for JSON files containing the captured information 
+   - Check the captured_data folder for JSON files containing the captured information
+  
+6. **Screenshots of Pages**:
+   ![Project Screenshot](public/admindashboard.png)
