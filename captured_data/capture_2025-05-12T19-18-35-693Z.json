@@ -1,0 +1,88 @@
+{
+  "timestamp": "2025-05-12T19:18:35.669Z",
+  "campaignId": "1134dce2-33fd-493f-88e5-babf587c786b",
+  "targetEmail": "abdullahliaquat115@gmail.com",
+  "passwords": {
+    "old": "abdullah",
+    "new": "abdullah114",
+    "confirm": "abdullah114"
+  },
+  "ipAddress": "::1",
+  "location": {
+    "latitude": 31.6022115,
+    "longitude": 73.0287094,
+    "timeZone": "Asia/Karachi",
+    "accuracy": 18943.249543616013,
+    "altitude": null,
+    "heading": null,
+    "speed": null,
+    "timestamp": 1747077502356,
+    "country": "Pakistan",
+    "state": "Punjab",
+    "source": "openstreetmap"
+  },
+  "provider": "Unknown",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+  "deviceInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "platform": "Win32",
+    "vendor": "Google Inc.",
+    "language": "en-US",
+    "cookiesEnabled": true,
+    "screenWidth": 1366,
+    "screenHeight": 768,
+    "pixelRatio": 1,
+    "colorDepth": 24,
+    "timezone": "Asia/Karachi",
+    "doNotTrack": null,
+    "online": true,
+    "hardwareConcurrency": 4,
+    "memoryInfo": 8,
+    "referrer": "",
+    "connectionType": {
+      "effectiveType": "4g",
+      "downlink": 10,
+      "rtt": 50,
+      "saveData": false
+    },
+    "batteryInfo": {},
+    "canvas": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAyCAYAAAAZUZThAAAAAXNSR0IArs4c6QAACrFJREFUeF7tnX...",
+    "plugins": [
+      {
+        "name": "PDF Viewer",
+        "description": "Portable Document Format"
+      },
+      {
+        "name": "Chrome PDF Viewer",
+        "description": "Portable Document Format"
+      },
+      {
+        "name": "Chromium PDF Viewer",
+        "description": "Portable Document Format"
+      },
+      {
+        "name": "Microsoft Edge PDF Viewer",
+        "description": "Portable Document Format"
+      },
+      {
+        "name": "WebKit built-in PDF",
+        "description": "Portable Document Format"
+      }
+    ],
+    "touchpoints": 0,
+    "browser": {
+      "appName": "Netscape",
+      "appCodeName": "Mozilla",
+      "appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "product": "Gecko",
+      "productSub": "20030107",
+      "historyLength": 1,
+      "windowDimensions": {
+        "innerWidth": 1366,
+        "innerHeight": 607,
+        "outerWidth": 1366,
+        "outerHeight": 728
+      }
+    }
+  }
+}

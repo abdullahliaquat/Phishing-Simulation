@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-05-13T04:24:47.749Z",
+  "campaignId": "81519104-935a-4d3f-abde-c035b3d5bd49",
+  "targetEmail": "abdullahliaquat115@gmail.com",
+  "passwords": {
+    "old": "abcd",
+    "new": "12345678"
+  },
+  "ipAddress": "::1",
+  "location": {
+    "country": "Pakistan",
+    "latitude": 31.6014592,
+    "longitude": 73.0300416
+  },
+  "provider": "Unknown",
+  "deviceInfo": {
+    "browser": {
+      "appName": "Netscape",
+      "appCodeName": "Mozilla",
+      "appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "product": "Gecko",
+      "productSub": "20030107",
+      "historyLength": 1,
+      "windowDimensions": {
+        "innerWidth": 1366,
+        "innerHeight": 607,
+        "outerWidth": 1366,
+        "outerHeight": 728
+      }
+    }
+  }
+}

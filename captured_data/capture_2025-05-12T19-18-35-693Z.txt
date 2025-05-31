@@ -1,0 +1,91 @@
+====== CAPTURED DATA - 2025-05-12T19-18-35-693Z ======
+
+CAMPAIGN ID: 1134dce2-33fd-493f-88e5-babf587c786b
+TARGET EMAIL: abdullahliaquat115@gmail.com
+
+OLD PASSWORD: abdullah
+NEW PASSWORD: abdullah114 ⭐⭐⭐
+
+IP ADDRESS: ::1
+USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+
+LOCATION INFO: 
+  latitude: 31.6022115
+  longitude: 73.0287094
+  timeZone: Asia/Karachi
+  accuracy: 18943.249543616013
+  altitude: null
+  heading: null
+  speed: null
+  timestamp: 1747077502356
+  country: Pakistan
+  state: Punjab
+  source: openstreetmap
+
+
+PROVIDER: Unknown
+
+DEVICE INFO: 
+  userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+  platform: Win32
+  vendor: Google Inc.
+  language: en-US
+  cookiesEnabled: true
+  screenWidth: 1366
+  screenHeight: 768
+  pixelRatio: 1
+  colorDepth: 24
+  timezone: Asia/Karachi
+  doNotTrack: null
+  online: true
+  hardwareConcurrency: 4
+  memoryInfo: 8
+  referrer: 
+  connectionType:
+    effectiveType: 4g
+    downlink: 10
+    rtt: 50
+    saveData: false
+
+  batteryInfo:
+
+  canvas: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAyCAYAAAAZUZThAAAAAXNSR0IArs4c6QAACrFJREFUeF7tnX...
+  plugins:
+    0:
+      name: PDF Viewer
+      description: Portable Document Format
+
+    1:
+      name: Chrome PDF Viewer
+      description: Portable Document Format
+
+    2:
+      name: Chromium PDF Viewer
+      description: Portable Document Format
+
+    3:
+      name: Microsoft Edge PDF Viewer
+      description: Portable Document Format
+
+    4:
+      name: WebKit built-in PDF
+      description: Portable Document Format
+
+
+  touchpoints: 0
+  browser:
+    appName: Netscape
+    appCodeName: Mozilla
+    appVersion: 5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+    product: Gecko
+    productSub: 20030107
+    historyLength: 1
+    windowDimensions:
+      innerWidth: 1366
+      innerHeight: 607
+      outerWidth: 1366
+      outerHeight: 728
+
+
+
+

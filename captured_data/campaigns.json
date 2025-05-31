@@ -1,0 +1,545 @@
+{
+  "bc2b4aa6-e423-41c0-a837-4506ccb479aa": {
+    "id": "bc2b4aa6-e423-41c0-a837-4506ccb479aa",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-12T18:21:35.759Z",
+    "status": "Email Sent",
+    "resetLink": "http://localhost:5678/reset/bc2b4aa6-e423-41c0-a837-4506ccb479aa",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-12T18:25:34.659Z",
+    "emailDetails": {
+      "mockEmail": true,
+      "targetEmail": "abdullahliaquat115@gmail.com",
+      "subject": "Instagram Security: Password Reset Required",
+      "resetLink": "http://localhost:5678/reset/bc2b4aa6-e423-41c0-a837-4506ccb479aa"
+    }
+  },
+  "583ed347-20a5-4eca-8687-12684557d81b": {
+    "id": "583ed347-20a5-4eca-8687-12684557d81b",
+    "targetEmail": "f219632@cfd.nu.edu.pk",
+    "targetName": "new",
+    "createdAt": "2025-05-12T18:25:09.088Z",
+    "status": "Email Sent",
+    "resetLink": "http://localhost:5678/reset/583ed347-20a5-4eca-8687-12684557d81b",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-12T18:25:10.852Z",
+    "emailDetails": {
+      "mockEmail": true,
+      "targetEmail": "f219632@cfd.nu.edu.pk",
+      "subject": "Instagram Security: Password Reset Required",
+      "resetLink": "http://localhost:5678/reset/583ed347-20a5-4eca-8687-12684557d81b"
+    }
+  },
+  "861dc086-6992-4517-af40-6d4f75e38c3c": {
+    "id": "861dc086-6992-4517-af40-6d4f75e38c3c",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "DD",
+    "createdAt": "2025-05-12T18:42:55.137Z",
+    "status": "Email Sent (Simulated)",
+    "resetLink": "http://localhost:5678/reset/861dc086-6992-4517-af40-6d4f75e38c3c",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-12T18:42:56.249Z",
+    "emailDetails": {
+      "mockEmail": true,
+      "targetEmail": "abdullahliaquat115@gmail.com",
+      "subject": "Instagram Security: Password Reset Required",
+      "resetLink": "http://localhost:5678/reset/861dc086-6992-4517-af40-6d4f75e38c3c"
+    }
+  },
+  "791465b7-48d0-4d06-87fc-90f4c6cbb366": {
+    "id": "791465b7-48d0-4d06-87fc-90f4c6cbb366",
+    "targetEmail": "f219632@cfd.nu.edu.pk",
+    "targetName": "abdullah",
+    "createdAt": "2025-05-12T18:44:13.336Z",
+    "status": "Email Sent (Simulated)",
+    "resetLink": "http://localhost:5678/reset/791465b7-48d0-4d06-87fc-90f4c6cbb366",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-12T18:44:14.759Z",
+    "emailDetails": {
+      "mockEmail": true,
+      "targetEmail": "f219632@cfd.nu.edu.pk",
+      "subject": "Instagram Security: Password Reset Required",
+      "resetLink": "http://localhost:5678/reset/791465b7-48d0-4d06-87fc-90f4c6cbb366"
+    }
+  },
+  "04c9a3ea-7ebb-4e24-98d8-406c72ebc87b": {
+    "id": "04c9a3ea-7ebb-4e24-98d8-406c72ebc87b",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-12T18:59:11.829Z",
+    "status": "Link Clicked",
+    "resetLink": "http://localhost:5678/reset/04c9a3ea-7ebb-4e24-98d8-406c72ebc87b",
+    "emailSent": true,
+    "clicked": true,
+    "capturedData": null,
+    "emailSentAt": "2025-05-12T18:59:15.974Z",
+    "clickedAt": "2025-05-12T19:00:06.799Z",
+    "clickIp": "::1",
+    "clickUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+  },
+  "71b71aac-bcfe-4c85-bb0f-56ef8388f34a": {
+    "id": "71b71aac-bcfe-4c85-bb0f-56ef8388f34a",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-12T19:07:15.925Z",
+    "status": "Email Sent",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?id=71b71aac-bcfe-4c85-bb0f-56ef8388f34a",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-12T19:07:22.021Z"
+  },
+  "d4f663eb-e570-4a09-b34b-1fc70be4f153": {
+    "id": "d4f663eb-e570-4a09-b34b-1fc70be4f153",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-12T19:12:23.941Z",
+    "status": "Email Sent",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?id=d4f663eb-e570-4a09-b34b-1fc70be4f153",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-12T19:12:28.213Z"
+  },
+  "1134dce2-33fd-493f-88e5-babf587c786b": {
+    "id": "1134dce2-33fd-493f-88e5-babf587c786b",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-12T19:17:44.908Z",
+    "status": "Credentials Captured",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=1134dce2-33fd-493f-88e5-babf587c786b&server=http://localhost:5678",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": {
+      "timestamp": "2025-05-12T19:18:35.669Z",
+      "campaignId": "1134dce2-33fd-493f-88e5-babf587c786b",
+      "targetEmail": "abdullahliaquat115@gmail.com",
+      "passwords": {
+        "old": "abdullah",
+        "new": "abdullah114",
+        "confirm": "abdullah114"
+      },
+      "ipAddress": "::1",
+      "location": {
+        "latitude": 31.6022115,
+        "longitude": 73.0287094,
+        "timeZone": "Asia/Karachi",
+        "accuracy": 18943.249543616013,
+        "altitude": null,
+        "heading": null,
+        "speed": null,
+        "timestamp": 1747077502356,
+        "country": "Pakistan",
+        "state": "Punjab",
+        "source": "openstreetmap"
+      },
+      "provider": "Unknown",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "platform": "Win32",
+        "vendor": "Google Inc.",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "screenWidth": 1366,
+        "screenHeight": 768,
+        "pixelRatio": 1,
+        "colorDepth": 24,
+        "timezone": "Asia/Karachi",
+        "doNotTrack": null,
+        "online": true,
+        "hardwareConcurrency": 4,
+        "memoryInfo": 8,
+        "referrer": "",
+        "connectionType": {
+          "effectiveType": "4g",
+          "downlink": 10,
+          "rtt": 50,
+          "saveData": false
+        },
+        "batteryInfo": {},
+        "canvas": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAyCAYAAAAZUZThAAAAAXNSR0IArs4c6QAACrFJREFUeF7tnX...",
+        "plugins": [
+          {
+            "name": "PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "Chrome PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "Chromium PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "Microsoft Edge PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "WebKit built-in PDF",
+            "description": "Portable Document Format"
+          }
+        ],
+        "touchpoints": 0,
+        "browser": {
+          "appName": "Netscape",
+          "appCodeName": "Mozilla",
+          "appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+          "product": "Gecko",
+          "productSub": "20030107",
+          "historyLength": 1,
+          "windowDimensions": {
+            "innerWidth": 1366,
+            "innerHeight": 607,
+            "outerWidth": 1366,
+            "outerHeight": 728
+          }
+        }
+      }
+    },
+    "emailSentAt": "2025-05-12T19:17:48.570Z",
+    "credentialCapturedAt": "2025-05-12T19:18:35.665Z",
+    "capturedPasswords": {
+      "old": "abdullah",
+      "new": "abdullah114"
+    },
+    "captureTime": "2025-05-12T19:18:35.706Z"
+  },
+  "436b29d6-1bff-4507-b750-977c082ddb74": {
+    "id": "436b29d6-1bff-4507-b750-977c082ddb74",
+    "targetEmail": "f219236@cfd.nu.edu.pk",
+    "targetName": "Saad",
+    "createdAt": "2025-05-13T03:47:51.856Z",
+    "status": "Created",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=436b29d6-1bff-4507-b750-977c082ddb74&server=http://localhost:5678",
+    "emailSent": false,
+    "clicked": false,
+    "capturedData": null
+  },
+  "be000274-3762-4473-8d74-d088f65b5f4b": {
+    "id": "be000274-3762-4473-8d74-d088f65b5f4b",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "abdullahliaquat115",
+    "createdAt": "2025-05-13T03:49:24.872Z",
+    "status": "Created",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=be000274-3762-4473-8d74-d088f65b5f4b&server=http://localhost:5678",
+    "emailSent": false,
+    "clicked": false,
+    "capturedData": null
+  },
+  "f19aa390-eed9-4c8a-9c52-90caea12d225": {
+    "id": "f19aa390-eed9-4c8a-9c52-90caea12d225",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-13T03:57:54.005Z",
+    "status": "Created",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=f19aa390-eed9-4c8a-9c52-90caea12d225&server=http://localhost:5678",
+    "emailSent": false,
+    "clicked": false,
+    "capturedData": null
+  },
+  "51ba4b6d-4aaa-4304-b9a1-fefb0d81d073": {
+    "id": "51ba4b6d-4aaa-4304-b9a1-fefb0d81d073",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-13T04:10:27.290Z",
+    "status": "Credentials Captured",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=51ba4b6d-4aaa-4304-b9a1-fefb0d81d073&server=http://localhost:5678",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": {
+      "timestamp": "2025-05-13T04:12:07.222Z",
+      "campaignId": "51ba4b6d-4aaa-4304-b9a1-fefb0d81d073",
+      "targetEmail": "abdullahliaquat115@gmail.com",
+      "passwords": {
+        "old": "abcd",
+        "new": "abdullah9632",
+        "confirm": "abdullah9632"
+      },
+      "ipAddress": "::1",
+      "location": {
+        "latitude": 31.6017777,
+        "longitude": 73.0355407,
+        "timeZone": "Asia/Karachi",
+        "accuracy": 11.818,
+        "altitude": null,
+        "heading": null,
+        "speed": null,
+        "timestamp": 1747109513271,
+        "country": "Pakistan",
+        "state": "Punjab",
+        "source": "openstreetmap"
+      },
+      "provider": "Unknown",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "platform": "Win32",
+        "vendor": "Google Inc.",
+        "language": "en-US",
+        "cookiesEnabled": true,
+        "screenWidth": 1366,
+        "screenHeight": 768,
+        "pixelRatio": 1,
+        "colorDepth": 24,
+        "timezone": "Asia/Karachi",
+        "doNotTrack": null,
+        "online": true,
+        "hardwareConcurrency": 4,
+        "memoryInfo": 8,
+        "referrer": "",
+        "connectionType": {
+          "effectiveType": "4g",
+          "downlink": 10,
+          "rtt": 50,
+          "saveData": false
+        },
+        "batteryInfo": {},
+        "canvas": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAyCAYAAAAZUZThAAAAAXNSR0IArs4c6QAACrFJREFUeF7tnX...",
+        "plugins": [
+          {
+            "name": "PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "Chrome PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "Chromium PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "Microsoft Edge PDF Viewer",
+            "description": "Portable Document Format"
+          },
+          {
+            "name": "WebKit built-in PDF",
+            "description": "Portable Document Format"
+          }
+        ],
+        "touchpoints": 0,
+        "browser": {
+          "appName": "Netscape",
+          "appCodeName": "Mozilla",
+          "appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+          "product": "Gecko",
+          "productSub": "20030107",
+          "historyLength": 1,
+          "windowDimensions": {
+            "innerWidth": 1366,
+            "innerHeight": 607,
+            "outerWidth": 1366,
+            "outerHeight": 728
+          }
+        }
+      }
+    },
+    "emailSentAt": "2025-05-13T04:11:05.863Z",
+    "lastError": "Email sending timed out after 10 seconds",
+    "credentialCapturedAt": "2025-05-13T04:12:07.218Z",
+    "capturedPasswords": {
+      "old": "abcd",
+      "new": "abdullah9632"
+    },
+    "captureTime": "2025-05-13T04:12:07.296Z"
+  },
+  "81724278-69b7-4a0c-a72f-6be47251f26c": {
+    "id": "81724278-69b7-4a0c-a72f-6be47251f26c",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "A",
+    "createdAt": "2025-05-13T04:18:51.306Z",
+    "status": "Credentials Captured",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=81724278-69b7-4a0c-a72f-6be47251f26c&server=http://localhost:5678",
+    "emailSent": false,
+    "clicked": false,
+    "capturedData": {
+      "timestamp": "2025-05-13T04:19:29.637Z",
+      "campaignId": "81724278-69b7-4a0c-a72f-6be47251f26c",
+      "targetEmail": "abdullahliaquat115@gmail.com",
+      "passwords": {
+        "old": "abcd",
+        "new": "abdullah9632"
+      },
+      "ipAddress": "::1",
+      "location": {
+        "country": "Pakistan",
+        "latitude": 31.6017628,
+        "longitude": 73.0355315
+      },
+      "provider": "Unknown",
+      "deviceInfo": {
+        "browser": {
+          "appName": "Netscape",
+          "appCodeName": "Mozilla",
+          "appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+          "product": "Gecko",
+          "productSub": "20030107",
+          "historyLength": 1,
+          "windowDimensions": {
+            "innerWidth": 1366,
+            "innerHeight": 607,
+            "outerWidth": 1366,
+            "outerHeight": 728
+          }
+        }
+      }
+    },
+    "emailSentAt": "2025-05-13T04:18:54.948Z",
+    "lastError": "Email sending timed out after 10 seconds",
+    "credentialCapturedAt": "2025-05-13T04:19:29.634Z",
+    "capturedPasswords": {
+      "old": "abcd",
+      "new": "abdullah9632"
+    },
+    "captureTime": "2025-05-13T04:19:29.844Z"
+  },
+  "92ac172f-c330-445e-a1c7-246bd829a406": {
+    "id": "92ac172f-c330-445e-a1c7-246bd829a406",
+    "targetEmail": "f219236@cfd.nu.edu.pk",
+    "targetName": "Saad",
+    "createdAt": "2025-05-13T04:23:39.423Z",
+    "status": "Email Sent",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=92ac172f-c330-445e-a1c7-246bd829a406&server=http://localhost:5678",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-13T04:24:04.807Z",
+    "lastError": "Email sending timed out after 10 seconds"
+  },
+  "81519104-935a-4d3f-abde-c035b3d5bd49": {
+    "id": "81519104-935a-4d3f-abde-c035b3d5bd49",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "abdullah",
+    "createdAt": "2025-05-13T04:24:18.793Z",
+    "status": "Credentials Captured",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=81519104-935a-4d3f-abde-c035b3d5bd49&server=http://localhost:5678",
+    "emailSent": false,
+    "clicked": false,
+    "capturedData": {
+      "timestamp": "2025-05-13T04:24:47.749Z",
+      "campaignId": "81519104-935a-4d3f-abde-c035b3d5bd49",
+      "targetEmail": "abdullahliaquat115@gmail.com",
+      "passwords": {
+        "old": "abcd",
+        "new": "12345678"
+      },
+      "ipAddress": "::1",
+      "location": {
+        "country": "Pakistan",
+        "latitude": 31.6014592,
+        "longitude": 73.0300416
+      },
+      "provider": "Unknown",
+      "deviceInfo": {
+        "browser": {
+          "appName": "Netscape",
+          "appCodeName": "Mozilla",
+          "appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+          "product": "Gecko",
+          "productSub": "20030107",
+          "historyLength": 1,
+          "windowDimensions": {
+            "innerWidth": 1366,
+            "innerHeight": 607,
+            "outerWidth": 1366,
+            "outerHeight": 728
+          }
+        }
+      }
+    },
+    "emailSentAt": "2025-05-13T04:24:22.665Z",
+    "lastError": "Email sending timed out after 10 seconds",
+    "credentialCapturedAt": "2025-05-13T04:24:47.743Z",
+    "capturedPasswords": {
+      "old": "abcd",
+      "new": "12345678"
+    },
+    "captureTime": "2025-05-13T04:24:47.832Z"
+  },
+  "7e8f75ce-83e7-4393-9b95-cf9350d4975c": {
+    "id": "7e8f75ce-83e7-4393-9b95-cf9350d4975c",
+    "targetEmail": "ameersultan420@gmail.com",
+    "targetName": "ahsan",
+    "createdAt": "2025-05-13T04:26:30.274Z",
+    "status": "Email Sent",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=7e8f75ce-83e7-4393-9b95-cf9350d4975c&server=http://localhost:5678",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-13T04:30:51.767Z",
+    "lastError": "Email sending timed out after 10 seconds"
+  },
+  "9f7d3156-7461-4d86-859b-33d9ee30dfc8": {
+    "id": "9f7d3156-7461-4d86-859b-33d9ee30dfc8",
+    "targetEmail": "ubajwaoffical@gmail.com",
+    "targetName": "umer",
+    "createdAt": "2025-05-13T04:31:46.005Z",
+    "status": "Email Send Timeout",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=9f7d3156-7461-4d86-859b-33d9ee30dfc8&server=http://localhost:5678",
+    "emailSent": false,
+    "clicked": false,
+    "capturedData": null,
+    "emailSentAt": "2025-05-13T04:31:52.039Z",
+    "lastError": "Email sending timed out after 10 seconds"
+  },
+  "2e855e4d-fc7e-49a4-bbbd-b002abe7c89d": {
+    "id": "2e855e4d-fc7e-49a4-bbbd-b002abe7c89d",
+    "targetEmail": "abdullahliaquat115@gmail.com",
+    "targetName": "Abdullah",
+    "createdAt": "2025-05-13T09:54:26.981Z",
+    "status": "Credentials Captured",
+    "resetLink": "http://127.0.0.1:5500/public/index.html?campaign=2e855e4d-fc7e-49a4-bbbd-b002abe7c89d&server=http://localhost:5678",
+    "emailSent": true,
+    "clicked": false,
+    "capturedData": {
+      "timestamp": "2025-05-13T09:55:06.900Z",
+      "campaignId": "2e855e4d-fc7e-49a4-bbbd-b002abe7c89d",
+      "targetEmail": "abdullahliaquat115@gmail.com",
+      "passwords": {
+        "old": "abcd",
+        "new": "12345678"
+      },
+      "ipAddress": "::1",
+      "location": {
+        "country": "Pakistan",
+        "latitude": 31.6014592,
+        "longitude": 73.0300416
+      },
+      "provider": "Unknown",
+      "deviceInfo": {
+        "browser": {
+          "appName": "Netscape",
+          "appCodeName": "Mozilla",
+          "appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+          "product": "Gecko",
+          "productSub": "20030107",
+          "historyLength": 1,
+          "windowDimensions": {
+            "innerWidth": 1366,
+            "innerHeight": 607,
+            "outerWidth": 1366,
+            "outerHeight": 728
+          }
+        }
+      }
+    },
+    "emailSentAt": "2025-05-13T09:54:31.174Z",
+    "credentialCapturedAt": "2025-05-13T09:55:06.892Z",
+    "capturedPasswords": {
+      "old": "abcd",
+      "new": "12345678"
+    },
+    "captureTime": "2025-05-13T09:55:07.135Z"
+  }
+}

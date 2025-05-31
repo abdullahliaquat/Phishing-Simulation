@@ -1,0 +1,16 @@
++--------------------------------+
+|    CAPTURED DATA - 13/05/2025, 9:24:47 am   |
++--------------------------------+
+
+Campaign ID: 81519104-935a-4d3f-abde-c035b3d5bd49
+Target Email: abdullahliaquat115@gmail.com
+
+OLD PASSWORD: abcd
+NEW PASSWORD: 12345678 ★★★
+
+IP Address: ::1
+Location: Pakistan
+Coordinates: 31.6014592, 73.0300416
+Provider: Unknown
+
+Device Info: Browser: [object Object]
