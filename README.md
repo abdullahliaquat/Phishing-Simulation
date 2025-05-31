@@ -113,3 +113,5 @@ If you're experiencing timeouts when sending phishing emails, try these solution
   
 6. **Screenshots of Pages**:
    ![Project Screenshot](public/admindashboard.PNG)
+
+   ![Project Screenshot](public/fakeinstapage.PNG)
